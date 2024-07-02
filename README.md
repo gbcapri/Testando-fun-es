@@ -1,2 +1,2 @@
-# Testando-fun-es
+# Testando-funcoes
 Testando o uso de funções em JavaScript
